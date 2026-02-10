@@ -7,6 +7,6 @@ Once a security vulnerability has been found and fixed, a new version of the sof
 
 ## Reporting a Vulnerability
 
-If you want to report a security vulnerability, [create an issue on GitHub](https://github.com/DasIstTobias/timeline/issues/new) and use the ‘Security’ label to mark the issue as a report.
+If you want to report a security vulnerability, [create an issue on GitHub](https://github.com/DasIstMeow/timeline/issues/new) and use the ‘Security’ label to mark the issue as a report.
 Once a security vulnerability has been reported, it will be fixed as soon as possible.
 However, this may take some time. No specific time frame can be given, as there are limited resources available.
