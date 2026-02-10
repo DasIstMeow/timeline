@@ -59,7 +59,7 @@ This is a secure personal timeline application for documenting and managing life
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DasIstTobias/timeline.git
+git clone https://github.com/DasIstMeow/timeline.git
 cd timeline
 ```
 
